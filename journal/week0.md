@@ -10,4 +10,6 @@ https://lucid.app/lucidchart/40ed61d1-f269-4fad-a952-9169ec666fa4/edit?viewport_
 
 ### Homework Challenges
 Installation of the CLI failed. I'm currently utilising a x32 processor while the prerequiisite is a x64
+![CLI Installation error](https://user-images.githubusercontent.com/109758936/219590284-4c9b3539-ab68-4ebf-881d-cf3c1875fb8c.png)
+
 
